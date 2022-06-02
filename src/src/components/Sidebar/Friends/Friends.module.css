@@ -1,0 +1,7 @@
+.avatar {
+    width: 50px;
+    border-radius: 50%;
+}
+.avatar .active {
+    border-color: rgb(37, 202, 202);
+}
